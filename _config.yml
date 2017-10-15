@@ -28,7 +28,7 @@ nav:
   - name:           "All Posts"
     url:           ""
   - name:           "Algorithm"
-    url:           "/posts/Algorithm"
+    url:           "/_posts/Algorithm"
 
 sass:
   style:            :compressed
