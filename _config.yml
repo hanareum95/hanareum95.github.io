@@ -26,11 +26,11 @@ markdown:           kramdown
 
 nav:
   - name:           "All Posts"
-    href:           "/_post
+    url:           "/_post
   - name:           "Algorithm"
-    href:           "/_post/Algorithm"
+    url:           "/_post/Algorithm"
   - name:           "Etc"
-    href:           "/_post/etc"
+    url:           "/_post/etc"
 
 sass:
   style:            :compressed
