@@ -25,10 +25,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
+  - name:           "All Posts"
+    url:           ""
   - name:           "Algorithm"
-    url:           "/_post/Algorithm"
-  - name:           "Etc"
-    url:           "/_post/etc"
+    url:           "/post/Algorithm"
 
 sass:
   style:            :compressed
