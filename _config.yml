@@ -25,10 +25,12 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
-    href:           "/about"
+  - name:           "All Posts"
+    href:           "/post
+  - name:           "Algorithm"
+    href:           "/post/Algorithm"
   - name:           "Etc"
-    href:           "/releases"
+    href:           "/post/etc"
 
 sass:
   style:            :compressed
