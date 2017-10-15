@@ -25,8 +25,6 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "All Posts"
-    url:           "/_post
   - name:           "Algorithm"
     url:           "/_post/Algorithm"
   - name:           "Etc"
