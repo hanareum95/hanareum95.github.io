@@ -25,9 +25,9 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
-  - name:           "About"
+  - name:           "Algorithm"
     href:           "/about"
-  - name:           "Download"
+  - name:           "Etc"
     href:           "/releases"
 
 sass:
