@@ -1,7 +1,7 @@
 # The primary author of this blog.
 # Must be the same as `author` in `_config.yml`.
 # Change `qwtel` to your shortname (used in the front matter to set a page's author, e.g. `author: qwtel`).
-isme2n:
+hanareum95:
   name:             areum han
   email:             areum9502@gmail.com
 
@@ -46,7 +46,7 @@ isme2n:
     # pinterest:       <username>
     # foursquare:      <number>
     # yelp:            <string>
-    github:          isme2n
+    github:          hanareum95
     # stackoverflow:   <number/username>
     # npm:             <username>
     # hackernews:      <username>
@@ -57,8 +57,8 @@ isme2n:
     # delicious:       <username>
     # stumbleupon:     <username>
     # paypal:          <username>
-    email:           mailto:zooqzqz@gmail.com
-    rss:             https://isme2n.github.io/feed.xml
+    email:           mailto:areum9502@gmail.com
+    rss:             https://hanareum95.github.io/feed.xml
 
 # Another author
 mdo:
