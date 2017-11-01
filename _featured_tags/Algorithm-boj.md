@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Tip
-slug: tip
-category: tip
+title: boj
+slug: boj
+category: Algorithm
 menu: false
 order: 1
 ---

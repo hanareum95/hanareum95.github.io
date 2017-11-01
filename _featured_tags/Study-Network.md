@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Food
-slug: food
-category: review
+title: Network
+slug: Network
+category: Study
 menu: false
 order: 2
 ---
