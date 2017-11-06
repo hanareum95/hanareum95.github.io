@@ -7,7 +7,7 @@ tags: OperatingSystem
 comments: true
 ---
 
-###Distributed Systems
+### Distributed Systems
 
 #### contents
 
