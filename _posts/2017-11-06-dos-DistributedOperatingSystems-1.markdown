@@ -7,7 +7,7 @@ tags: OperatingSystem
 comments: true
 ---
 
-Operating System Layer
+#### Operating System Layer
 
 
 ![dos-2-1-oslayer.jpg](/assets/img/docs/dos-2-1-oslayer.jpg)
@@ -18,4 +18,4 @@ The Kernel
 
 ---
 
-Processes and Threads
+#### Processes and Threads
