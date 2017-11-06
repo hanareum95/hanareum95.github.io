@@ -10,7 +10,7 @@ comments: true
 Operating System Layer
 
 
-![dos-2-1-oslayer.jpg](assets/img/docs/dos-2-1-oslayer.jpg)
+![dos-2-1-oslayer.jpg](/assets/img/docs/dos-2-1-oslayer.jpg)
 
 ---
 
