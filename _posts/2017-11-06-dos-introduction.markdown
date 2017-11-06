@@ -70,20 +70,20 @@ _ _ _
 #### Design Issues
 
 - Access transparency
-	: local과 remote 리소스를 동일하게 접근할 수 있다.
+ -- local과 remote 리소스를 동일하게 접근할 수 있다.
 
 - Location transparency
-	: IP가 바뀌었더라도 똑같이 접근할 수 있다. 
+ -- IP가 바뀌었더라도 똑같이 접근할 수 있다. 
 
 - Concurrency transparency
 - Relication transparency
-	: backup 만들어서 여러 대 운영
+ -- backup 만들어서 여러 대 운영
 
 - Failure transparency
-	: Failure가 발생하지 않은 것 처럼
+ -- Failure가 발생하지 않은 것 처럼
 
 - Mobile transparency
 - Performance transparency
 - Scaling transparency
-	: 규모가 늘어나도 같은 방식으로
+ -- 규모가 늘어나도 같은 방식으로
 
