@@ -7,7 +7,7 @@ tags: OperatingSystem
 comments: true
 ---
 
-##### Motivation
+#### Motivation
 - Resource sharing
 -- ex) file server
 
@@ -20,14 +20,17 @@ comments: true
 -- 한쪽에서 문제가 생겼을 때를 위한 backup
 
 _ _ _
-##### Examples of Distributed Systems
+
+#### Examples of Distributed Systems
 - Internet
 - Automatic Teller Machines
 - POS System
 - Intranets( 내부망 )
 - Mobile and ubiquitous computing
+
 _ _ _
-##### Characteristics of Distributed Systems
+
+#### Characteristics of Distributed Systems
 - Resource sharing
 -- naming : 자원의 식별자를 모든 시스템에서 알 수 있는 이름으로 할당
 -- coordination of concurrent accesses : 동시에 여러 개가 각자의 공간을 할당해달라고 요청했을 때 resource manager가 충돌이 일어나지 않도록 관리
@@ -61,8 +64,10 @@ _ _ _
 
 - Security
 - Scalability
+
 _ _ _
-##### Design Issues
+
+#### Design Issues
 
 - Access transparency
 	: local과 remote 리소스를 동일하게 접근할 수 있다.
