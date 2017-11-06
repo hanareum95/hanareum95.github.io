@@ -7,7 +7,7 @@ tags: OperatingSystem
 comments: true
 ---
 
-Motivation
+#### Motivation
 
 - Resource sharing
   - ex) file server
@@ -20,7 +20,7 @@ Motivation
 
 ---
 
-Examples of Distributed Systems
+#### Examples of Distributed Systems
 
 - Internet
 - Automatic Teller Machines
@@ -30,7 +30,7 @@ Examples of Distributed Systems
 
 ---
 
-Characteristics of Distributed Systems
+#### Characteristics of Distributed Systems
 
 - Resource sharing
   - naming : 자원의 식별자를 모든 시스템에서 알 수 있는 이름으로 할당
@@ -58,7 +58,7 @@ Characteristics of Distributed Systems
 
 ---
 
-Design Issues
+#### Design Issues
 
 - Access transparency
   - local과 remote 리소스를 동일하게 접근할 수 있다.
