@@ -8,7 +8,7 @@ comments: true
 ---
 
 ###Distributed Systems
-- - -
+
 #### contents
 
 1. Introduction
