@@ -4,5 +4,5 @@ title: OperatingSystem
 slug: OperatingSystem
 category: Study
 menu: false
-order: 4
+order: 5
 ---
