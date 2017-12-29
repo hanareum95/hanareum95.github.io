@@ -1,10 +1,10 @@
 ---
 layout: list
-title: Programming
-slug: Programming
+title: Project
+slug: Project
 menu: true
 submenu: true
-order: 2
+order: 3
 description: >
-  -
+  나의 프로젝트
 ---
