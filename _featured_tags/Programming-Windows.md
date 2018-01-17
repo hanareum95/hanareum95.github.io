@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Windows OS
-slug: Windows OS
+title: Windows
+slug: Windows
 category: Programming
 menu: false
 order: 4
