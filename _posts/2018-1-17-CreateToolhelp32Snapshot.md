@@ -3,7 +3,7 @@ layout: post
 title:  "[Windows] Process info API"
 subtitle:   "CreateToolhelp32Snapshot"
 categories: Programming
-tags: C++, Windows
+tags: C++ Windows
 comments: true
 ---
 
